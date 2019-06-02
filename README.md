@@ -5,4 +5,4 @@ Also provides some basic information on the each of the objects such as mass, si
 
 It is coded in Python using Pycharm. It uses the visual and PIL library to create the 3d objects and wrap the texture maps on the objects. 
 
-<img src="https://user-images.githubusercontent.com/43008021/58757763-cf2e4400-84df-11e9-8541-f00a0b8b5a2e.png" width="500" />
+<img src="https://user-images.githubusercontent.com/43008021/58757763-cf2e4400-84df-11e9-8541-f00a0b8b5a2e.png" width="900" />
